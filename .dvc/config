@@ -6,3 +6,5 @@
     url = ../data/myremote
 ['remote "name"']
     url = ../data/myremote
+['remote "url"']
+    url = ssh://7111534@10.12.54.42:30013/vision2/dataset
