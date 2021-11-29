@@ -1,9 +1,0 @@
-[core]
-    remote = myremote
-[cache]
-    dir = /data
-['remote "myremote"']
-    url = ssh://7111534@10.12.54.42:30013/awesome_vision/7111534
-    ask_password = true
-['remote "name"']
-    url = ../data/myremote
