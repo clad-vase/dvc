@@ -1,0 +1,5 @@
+outs:
+- md5: 02340c45f1c874392f77e97924c24251.dir
+  size: 3577486
+  nfiles: 4
+  path: image_data

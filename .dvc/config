@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://7111534@10.12.54.42:30013/vision2/dataset/temp
+    password = Dlwlsduq123@
